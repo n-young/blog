@@ -1,5 +1,5 @@
 baseURL = "http://n-young.xyz/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "nick young | blog"
 theme = "n-young"
 publishDir = "docs"
