@@ -1,11 +1,14 @@
-<h3>Posts</h3>
+<h3>posts</h3>
 <ul id="posts">
-{{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
-    <li>
-        <a href="{{ .Permalink }}">
-            {{- .Title -}}
-            <small><time>{{ .Date.Format "Jan 2, 2006" }}</time></small>
-        </a>
-    </li>
-{{ end }}
+  {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
+  <li>
+    <span class="tooltip {{ .Params.bin }}"
+      >&#9632;<span class="tooltiptext">{{ .Params.binTitle }}</span></span
+    >
+    <a href="{{ .Permalink }}">
+      {{- .Title -}}
+    </a>
+    <small><time>{{ .Date.Format "Jan 2, 2006" }}</time></small>
+  </li>
+  {{ end }}
 </ul>
