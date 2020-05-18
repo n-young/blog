@@ -1,5 +1,5 @@
 div.underline {
-  position: fixed;
+  position: absolute;
   height: 0.2rem;
   width: calc(300px + 20%);
   margin-top: 3px;

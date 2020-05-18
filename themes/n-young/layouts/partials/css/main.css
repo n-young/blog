@@ -18,7 +18,7 @@ body {
   min-width: 300px;
   min-height: 100vh;
   margin: 0 auto;
-  padding: 16px;
+  padding: 16px 16px 15vh 16px;
 }
 
 header#banner {
@@ -112,7 +112,7 @@ main#content p {
 }
 
 footer#mainfooter {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
