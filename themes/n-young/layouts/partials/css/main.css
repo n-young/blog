@@ -15,7 +15,7 @@ body {
   background-color: #f0ffe7;
   color: #262626;
   width: 60%;
-  min-width: 430px;
+  min-width: 300px;
   min-height: 100vh;
   margin: 0 auto;
   padding: 16px;
@@ -74,6 +74,8 @@ main#content p {
 
 main#content h3 {
   font-size: 3rem;
+  margin: 3rem 0 1rem 0;
+  text-decoration: underline;
 }
 
 main#content ul#posts {

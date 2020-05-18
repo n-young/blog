@@ -1,8 +1,7 @@
 div.underline {
   position: fixed;
   height: 0.2rem;
-  width: 60%;
-  min-width: 350px;
+  width: calc(300px + 20%);
   margin-top: 3px;
   left: 0;
   background-color: #262626;
