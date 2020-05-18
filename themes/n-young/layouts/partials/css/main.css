@@ -109,7 +109,7 @@ main#content p {
   font-size: 2rem;
 }
 
-#mainfooter {
+footer#mainfooter {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -122,13 +122,13 @@ main#content p {
   color: white;
 }
 
-#mainfooter > p > a {
+footer#mainfooter > p > a {
   font-size: 2rem;
   color: white;
   text-decoration: none;
   margin: 0 10px;
 }
 
-#mainfooter > p > a:hover {
+footer#mainfooter > p > a:hover {
   text-decoration: underline;
 }
