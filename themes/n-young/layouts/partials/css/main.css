@@ -116,14 +116,14 @@ main#content p {
   width: 100%;
   min-height: 10vh;
   padding: 1rem;
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-align: center;
   background: #262626;
   color: white;
 }
 
 #mainfooter > p > a {
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: white;
   text-decoration: none;
   margin: 0 10px;
