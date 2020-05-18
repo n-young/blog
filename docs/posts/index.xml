@@ -12,11 +12,29 @@
     
     
     <item>
-      <title>First Post</title>
+      <title>Chaotic</title>
+      <link>http://n-young.xyz/blog/posts/first-post-copy/</link>
+      <pubDate>Sun, 17 May 2020 15:53:33 -0700</pubDate>
+      
+      <guid>http://n-young.xyz/blog/posts/first-post-copy/</guid>
+      <description>This is my first post!</description>
+    </item>
+    
+    <item>
+      <title>Computers</title>
       <link>http://n-young.xyz/blog/posts/first-post/</link>
       <pubDate>Sun, 17 May 2020 15:53:33 -0700</pubDate>
       
       <guid>http://n-young.xyz/blog/posts/first-post/</guid>
+      <description>This is my first post!</description>
+    </item>
+    
+    <item>
+      <title>Current</title>
+      <link>http://n-young.xyz/blog/posts/first-post-copy-2/</link>
+      <pubDate>Sun, 17 May 2020 15:53:33 -0700</pubDate>
+      
+      <guid>http://n-young.xyz/blog/posts/first-post-copy-2/</guid>
       <description>This is my first post!</description>
     </item>
     
