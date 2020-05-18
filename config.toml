@@ -1,4 +1,4 @@
-baseURL = "http://n-young.xyz/blog/"
+baseURL = "http://blog.n-young.xyz"
 languageCode = "en-us"
 title = "nick young | blog"
 theme = "n-young"
