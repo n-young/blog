@@ -5,6 +5,11 @@
     {{- if isset .Params "date" -}}
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{- end -}}
+    <!-- prettier-ignore -->
+    <h4>
+      <i class="fas fa-clock"></i> ~{{ .ReadingTime }} minute read,
+      {{ .WordCount }} words.
+    </h4>
   </header>
   {{- .Content -}}
 </article>
