@@ -20,6 +20,9 @@
     src="https://kit.fontawesome.com/d7ac8b9d86.js"
     crossorigin="anonymous"
   ></script>
+  {{ with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
 
   <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' />
 </head>

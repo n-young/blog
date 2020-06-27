@@ -3,3 +3,7 @@ languageCode = "en-us"
 title = "nick young | blog"
 theme = "n-young"
 publishDir = "docs"
+rssLimit = 10
+
+[author]
+  name = "Nick Young"
