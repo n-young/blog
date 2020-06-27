@@ -1,6 +1,6 @@
 ---
 title: "On curricular diversity and a diversity curriculum."
-date: 2020-06-27T02:38:41-07:00
+date: 2020-06-26T18:38:41-07:00
 draft: false
 bin: "chaotics"
 binTitle: "Chaotics"

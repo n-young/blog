@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.n-young.xyz/posts/but_why/</loc>
-    <lastmod>2020-05-17T15:53:33-07:00</lastmod>
+    <loc>http://blog.n-young.xyz/</loc>
+    <lastmod>2020-06-26T18:38:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.n-young.xyz/</loc>
-    <lastmod>2020-05-17T15:53:33-07:00</lastmod>
+    <loc>http://blog.n-young.xyz/posts/diversity/</loc>
+    <lastmod>2020-06-26T18:38:41-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.n-young.xyz/posts/</loc>
+    <lastmod>2020-06-26T18:38:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.n-young.xyz/posts/but_why/</loc>
     <lastmod>2020-05-17T15:53:33-07:00</lastmod>
   </url>
   
