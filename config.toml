@@ -1,5 +1,9 @@
-baseURL = "http://blog.n-young.xyz"
+baseURL = "https://blog.n-young.xyz"
 languageCode = "en-us"
 title = "nick young | blog"
 theme = "n-young"
 publishDir = "docs"
+rssLimit = 10
+
+[author]
+  name = "Nick Young"
