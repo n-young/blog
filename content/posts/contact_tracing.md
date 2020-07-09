@@ -1,5 +1,5 @@
 ---
-title: "I took a contact tracing course so you don’t have to."
+title: "I took a contact tracing course so you don’t have to!"
 date: 2020-07-09T15:32:08-07:00
 draft: false
 bin: "chaotics"
