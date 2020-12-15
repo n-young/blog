@@ -135,20 +135,51 @@ footer#mainfooter {
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 1rem;
+    padding: 0;
     font-size: 2rem;
     text-align: center;
     background: #262626;
     color: white;
 }
 
-footer#mainfooter > p > a {
+footer#mainfooter > div.footer-content {
+  padding: 2rem;
+}
+
+footer#mainfooter > div.footer-content > p > a {
     font-size: 2rem;
     color: white;
     text-decoration: none;
     margin: 0 10px;
 }
 
-footer#mainfooter > p > a:hover {
+footer#mainfooter > div.footer-content > p > a:hover {
     text-decoration: underline;
 }
+
+footer#mainfooter > div.footer-lines {
+  display: flex;
+  flex-direction: row;
+}
+
+footer#mainfooter > div.footer-lines > div.footer-line {
+  height: 10px;
+  width: 25%;
+}
+
+#footer-line-1 {
+  background-color: rgba(255, 191, 0, 1);
+}
+
+#footer-line-2 {
+  background-color: rgba(232, 63, 111, 1);
+}
+
+#footer-line-3 {
+  background-color: rgba(34, 116, 165, 1);
+}
+
+#footer-line-4 {
+  background-color: rgba(50, 147, 111, 1);
+}
+
